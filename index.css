@@ -1,0 +1,11 @@
+.list {
+  border: 5px solid green;
+}
+.listItem {
+  height:100px;
+  text-align: center;
+  list-style:none;
+  border: 2px solid red;
+  vertical-align: middle;
+  line-height: 100px;
+}
