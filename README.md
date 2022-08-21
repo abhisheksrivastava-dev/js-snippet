@@ -1,1 +1,1 @@
-basic HTML CSS and JS
+Dynamic Star Rating HTML CSS and JS
