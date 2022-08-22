@@ -1,1 +1,1 @@
-basic HTML CSS and JS
+web Worker HTML CSS and JS
