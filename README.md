@@ -1,1 +1,1 @@
-basic HTML CSS and JS
+Geolocation HTML CSS and JS
