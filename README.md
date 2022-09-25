@@ -1,1 +1,1 @@
-basic HTML CSS and JS
+basic HTML CSS and JS PROJECT Starter
