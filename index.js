@@ -11,6 +11,7 @@ document.addEventListener("DOMContentLoaded", function () {
       if (windowTop + windowHeight + 300 > totalScrollHeight) {
         var li = document.createElement("li");
         li.classList.add("listItem");
+        li.id = counter;
         li.innerText = `Item ${counter}`;
         counter++;
         list.append(li);
@@ -41,3 +42,10 @@ function debounce(cb, wait) {
     }, wait);
   };
 }
+
+// event-delegation
+document.querySelector('#list').addEventListener('click', (e) => {
+    if(e.target.tagName === 'LI'){
+        window.location.href = "/" + e.target.id;
+    }
+})
