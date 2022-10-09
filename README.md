@@ -1,1 +1,1 @@
-basic HTML CSS and JS PROJECT Starter
+basic HTML CSS and JS DRINK WATER
